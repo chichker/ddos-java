@@ -198,3 +198,5 @@ public class Dos implements Runnable {
         System.out.println("GET attack done!: " + responseCode + "Thread: " + this.seq);
     }
 }
+cd ddos.java
+java ddos.java
